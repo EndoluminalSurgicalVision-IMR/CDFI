@@ -1,5 +1,7 @@
 # Dataset
-Dataset for CDFI: Cross Domain Feature Interaction for Robust Bronchi Lumen Detection（ICRA2023）
+[ICRA2023] Dataset for CDFI: Cross Domain Feature Interaction for Robust Bronchi Lumen Detection
+
+The paper is available at [here](https://drive.google.com/file/d/1iKIr9LL6L5EexmpxkscD9ye85-176KGE/view?usp=drive_link).
 
 You can download the dataset in [here](https://drive.google.com/file/d/1iKIr9LL6L5EexmpxkscD9ye85-176KGE/view?usp=drive_link).
 
