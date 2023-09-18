@@ -3,7 +3,7 @@
 
 The paper is available at [CDFI](https://ieeexplore.ieee.org/abstract/document/10160402).
 
-You can download the dataset in [lumen](https://drive.google.com/file/d/1iKIr9LL6L5EexmpxkscD9ye85-176KGE/view?usp=drive_link).
+You can download the dataset in [lumen]((https://zenodo.org/record/8354221).
 
 # Citation
 If you need to use the dataset in your research, please cite:
